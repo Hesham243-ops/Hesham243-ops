@@ -8,7 +8,7 @@
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?linesJunior-communication=%20 electronics%20Engineer ;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?linesJunior-communication=%20electronics%20Engineer ;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Junior communication & electronics Engineer 
@@ -18,7 +18,7 @@
 
 ### Connect with Me :
 
-<a href="https://linkedin.com/in/Hesham Sayed" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/hesham-sayed-07266b256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh0mY%2Boi8SCuUTXKv7rkycw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
 <a href="https://t.me/Hesahm Sayed" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Sayed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
