@@ -19,7 +19,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/hesham-sayed-07266b256?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bh0mY%2Boi8SCuUTXKv7rkycw%3D%3D" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Sayed-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Hesahm Sayed" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Sayed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/HeshamSayed1702" target="_blank"><img src="https://img.shields.io/badge/-Hesham%20Sayed-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
